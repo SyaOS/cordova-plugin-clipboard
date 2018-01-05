@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eeschiavo/cordova-plugin-clipboard.git"
+    "url": "git+https://github.com/SyaOS/cordova-plugin-clipboard.git"
   },
   "keywords": [
     "clipboard",
@@ -34,7 +34,7 @@
   "author": "Ernesto Schiavo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eeschiavo/cordova-plugin-clipboard/issues"
+    "url": "https://github.com/SyaOS/cordova-plugin-clipboard.git/issues"
   },
-  "homepage": "https://github.com/eeschiavo/cordova-plugin-clipboard#readme"
+  "homepage": "https://github.com/SyaOS/cordova-plugin-clipboard.git#readme"
 }
